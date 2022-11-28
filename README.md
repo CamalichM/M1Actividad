@@ -2,7 +2,7 @@
 
 Para este problema, deberás entregar, de manera individual, un informe en PDF que estudie las estadísticas de un robot de limpieza reactivo, así como el enlace al repositorio en Github del código desarrollado para esta actividad. El código debe ajustarse al estilo solicita en el siguiente documento.
 
-Dado:
+## Dado:
 
 Habitación de MxN espacios.
 
@@ -12,7 +12,8 @@ Porcentaje de celdas inicialmente sucias.
 
 Tiempo máximo de ejecución.
 
-Realiza la siguiente simulación:
+
+## Realiza la siguiente simulación:
 
 Inicializa las celdas sucias (ubicaciones aleatorias).
 
@@ -26,7 +27,8 @@ Si la celda está limpia, el agente elije una dirección aleatoria para moverse 
 
 Se ejecuta el tiempo máximo establecido.
 
-Deberás recopilar la siguiente información durante la ejecución:
+
+## Deberás recopilar la siguiente información durante la ejecución:
 
 Tiempo necesario hasta que todas las celdas estén limpias (o se haya llegado al tiempo máximo).
 
