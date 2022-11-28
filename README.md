@@ -36,4 +36,10 @@ Porcentaje de celdas limpias después del termino de la simulación.
 
 Número de movimientos realizados por todos los agentes.
 
-Analiza cómo la cantidad de agentes impacta el tiempo dedicado, así como la cantidad de movimientos realizados. Desarrollar un informe con lo observado.
+Analiza cómo la cantidad de agentes impacta el tiempo dedicado, así como la cantidad de movimientos realizados. 
+
+Desarrollar un informe con lo observado.
+
+### Marco Antonio Camalich Pérez
+### A01351725
+### 27 de noviembre de 2022
